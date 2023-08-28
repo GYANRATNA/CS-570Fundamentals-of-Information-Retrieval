@@ -88,15 +88,5 @@ Human | 85.8 | 81.3 | 88.9 |
 SRL | 35.8 | 2.4 |
 PolNeAR-Source | <strong>38.9</strong> | <strong>2.7</strong> |
 
-### Citation
-
-If you used this dataset in your work, please consider citing our paper:
-```
-@article{reddy2021newsclaims,
-  title={NewsClaims: A New Benchmark for Claim Detection from News with Background Knowledge},
-  author={Reddy, Revanth Gangi and Chinthakindi, Sai and Wang, Zhenhailong and Fung, Yi R and Conger, Kathryn S and Elsayed, Ahmed S and Palmer, Martha and Ji, Heng},
-  journal={arXiv preprint arXiv:2112.08544},
-  year={2021}
-}
 ```
 
